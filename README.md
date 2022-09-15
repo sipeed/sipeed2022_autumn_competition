@@ -1,5 +1,5 @@
 # 矽速2022秋招AIoT挑战赛
-矽速(Sipeed)2022秋季**AIoT挑战赛**，**万元大奖**等你来拿～   
+矽速(Sipeed)2022秋招**AIoT挑战赛**，**万元大奖**等你来拿～   
 赛题信息：https://github.com/sipeed/sipeed2022_autumn_competition  
 转发比赛信息(此截图)到1000人以上相关技术QQ群 且为 github.com/sipeed/TinyMaix 点Star  
 即可到矽速官方店领取 BL702 JTAG+UART调试小板一块 或 新款BL702 TinyML开发板一块～  
