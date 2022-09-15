@@ -21,7 +21,7 @@ Sipeed针对此类典型问题场景，推出了 [TinyMaix](https://github.com/s
 ## 提交内容
 参赛者请在2022.10.31前提交结果。   
 提交方式为，向TinyMaix仓库提交对应PR。提交格式参见 doc/porting/port_STM32F411.md   
-需要投递简历的可以同时将简历投递至 support@sipeed.com, 标题为 "[秋季挑战赛]软件初级组 姓名"  
+需要投递简历的可以同时将简历投递至 support@sipeed.com, 标题为 "[秋招挑战赛]软件初级组 姓名"  
 
 ## 评比方法
 满足基础要求者即为完赛。  
