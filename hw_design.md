@@ -39,7 +39,7 @@ M1s 基于[BL808](assets/BL808_DS_zh.pdf)芯片，多核异构（480M RV64 C906 
 推荐使用开源的KICAD/立创EDA进行硬件设计。  
 在完成原理图和PCB图设计后，将相关设计发送到support@sipeed.com邮箱，标题为 "[秋季挑战赛]硬件设计组 姓名"     
 通过初步评审后，即可获得两片M1s模组，PCB及主要物料经费，进行下一步实物制作。  
-最终需要将制作结果分享到https://oshwhub.com/进行评比  
+最终需要将制作结果分享到 https://oshwhub.com/  进行评比  
 
 
 ## 提交内容
