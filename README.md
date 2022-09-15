@@ -3,7 +3,7 @@
 赛题信息：https://github.com/sipeed/sipeed2022_autumn_competition  
 转发比赛信息(此截图)到1000人以上相关技术QQ群 且为 github.com/sipeed/TinyMaix 点Star  
 即可到矽速官方店领取 BL702 JTAG+UART调试小板一块 或 新款BL702 TinyML开发板一块～  
-（每github ID仅送一个,截图给客服, sipeed.taobao.com） 
+（每github ID仅送一个,非矽速自营群,截图给客服, sipeed.taobao.com） 
 
 <img height=256 src="assets/qr.png"/> ___<img height=200 src="assets/702dbg.png"/><img height=200 src="assets/702tinyml.png"/>   
 (BL702 JTAG+UART调试小板 有现货， BL702 TinyML开发板 十月份发货)
