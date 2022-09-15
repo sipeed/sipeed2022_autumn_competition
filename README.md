@@ -39,10 +39,10 @@ C906 480M + E907 320M 双核异构AIoT板卡，内置64M DDR + NPU， 含 2MP �
 ## 赛题内容
 具体赛题内容和评比方式详见以下页面，本次比赛最终解释权归矽速科技所有。  
 
-软件组 初级题：[TinyMaix初体验](sw_beginner/readme.md)  
-软件组 优化题：[TinyMaix卷王争霸赛](sw_opt/readme.md)  
-软件组 系统题：[跨界AIoT芯片主线化](sw_linux/readme.md)  
-硬件组 设计题：[跨界AIoT模组创新设计](hw_design/readme.md)    
+软件组 初级题：[TinyMaix初体验](sw_beginner.md)  
+软件组 优化题：[TinyMaix卷王争霸赛](sw_opt.md)  
+软件组 系统题：[跨界AIoT芯片主线化](sw_linux.md)  
+硬件组 设计题：[跨界AIoT模组创新设计](hw_design.md)    
 
 ## 快速通道
 考虑到在职工程师的空闲时间可能不多，以及大佬一眼就知道该怎么做不想浪费时间，所以我们也同时提供快速通道。  
