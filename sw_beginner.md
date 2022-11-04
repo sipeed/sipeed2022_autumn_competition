@@ -27,6 +27,28 @@ Sipeed针对此类典型问题场景，推出了 [TinyMaix](https://github.com/s
 满足基础要求者即为完赛。  
 
 ## 完赛记录
-完赛者记录会在比赛期间及时更新到本节
-
+完赛者：
+dreamcmi
+YuzukiTsuru 
+happyme531 
+Sunuywq 
+starry-m
+FantasyGmm 
+zeroherolin 
+lemonicesprite
+liux-pro
+juanic 
+metro94
+1847123212
+HaiMianBBao 
+Anuo-shuo 
+sunnycase
+haberzero
+windfallw
+Xiao-Echo
+fanghuaqi
+nihui
+XOXVXOX
+tdleiyao 
+xusiwei 
 
