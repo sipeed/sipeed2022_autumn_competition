@@ -28,9 +28,9 @@ TinyMaix卷王争霸赛
 根据实际优化效果和优化的功能点意义进行评分。 
 
 ## 完赛记录
-一等奖：lxowalle  为TinyMaix增加了ADD算子，mbnet/resnet支持
-二等奖：sunnycase 为TinyMaix优化了int8下的postprocess部分
-三等奖：nihui，为TinyMaix增加了X86 SSE2的架构优化
-        ganhailin 为TinyMaix增加了CSKYV2的架构优化
+一等奖：lxowalle  为TinyMaix增加了ADD算子，mbnet/resnet支持   
+二等奖：sunnycase 为TinyMaix优化了int8下的postprocess部分   
+三等奖：nihui，为TinyMaix增加了X86 SSE2的架构优化   
+        ganhailin 为TinyMaix增加了CSKYV2的架构优化   
 
 
